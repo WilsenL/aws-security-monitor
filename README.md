@@ -26,7 +26,7 @@ Proyek ini dibuat sebagai bagian dari sprint pengembangan 2 minggu untuk membang
 1.  **Clone Repositori:**
 
     ```bash
-    git clone [URL_GITHUB_ANDA]
+    git clone https://github.com/WilsenL/aws-security-monitor.git
     cd aws-honeypot-monitor
     ```
 
